@@ -1,0 +1,221 @@
+.business{
+
+    border: 200%;
+    border-radius: 8px;
+    height: 330px;
+  
+    background-color:rgb(3, 252, 165);
+  font-family: sans-serif;
+width: 500px;
+margin: 80px auto;
+padding:40px;
+}
+.b{
+    font-size: 50px ;
+}
+
+.btn{
+
+    border-radius: 50px;
+    border: none;
+    padding: 15px;
+    margin: 10px;
+    font-size: large;
+}
+
+.pro{
+
+    border:solid rgb(236, 228, 228);
+    border-radius: 8px;
+    height: 400px;
+  
+  background-color:rgba(255, 255, 255, 0.571);
+    font-family: sans-serif;
+width: 500px;
+margin: 80px auto;
+padding:40px;
+
+}
+
+
+.img1{
+
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-left: 80px;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.img2{
+
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    padding: 8px;
+    margin-top: 50px;
+
+    background-color: rgb(114, 104, 90);
+margin-left: 100px;
+
+}
+
+.par{
+
+    font-size: 20px ;
+    color: grey;
+}
+
+
+
+.bor1{
+    
+    color: blue;
+    margin-top: 70px;
+    
+}
+
+.three{
+
+    
+    height: 100%;
+  border: solid rgb(236, 228, 228) ;
+width: 40.87%;
+
+margin-left: 440px;
+margin-right: 200px;
+border-radius: 10px;
+}
+
+
+.fa-lock{
+    padding-left: 20px;
+
+    color: grey;
+    font-size:large;
+
+font-family: sans-serif;
+}
+
+.par2{
+
+color: grey;
+    font-size: larger;
+    padding-right: 250px;
+    padding-left: 20px;
+    
+    
+}
+
+.btn1{
+
+    border-radius: 5px;
+    border:solid rgb(236, 228, 228);
+        padding: 5px;
+    margin: 12px;
+    font-size: large;
+    color: blue;
+    background-color: white;
+    padding-left: 10px;
+ 
+
+}
+
+.newhead{
+ padding-top: 10px;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 10;
+    font-family: serif;
+
+}
+
+.img3{
+    width: 100%;
+    height: 330px;
+object-fit: contain;
+width: fit-content;
+padding-left: 0px;
+border-top-left-radius: 20;
+}
+
+.login{
+
+    border:solid rgb(232, 214, 214);
+    border-radius: 8px;
+    height: 450px;
+  
+    background-color:white;
+  font-family: sans-serif;
+width: 500px;
+margin: 80px auto;
+padding:40px;
+}
+
+.img4{
+
+    width: 100px;
+    padding-left: 200px;
+}
+
+.head1{
+
+    padding-left: 125px ;
+}
+
+.newlog{
+
+    padding-left: 100px ;
+
+}
+
+.newpass{
+
+    padding-left: 105px ;
+    padding-top: 8px;
+
+
+}
+
+.btn5{
+
+   margin-left: 200px;
+   margin-top: 20px;
+}
+
+.par1{
+
+    font-size: small;
+    padding-left: 190px;
+    margin-top: 10px;
+}
+
+.par3{
+
+    font-size: small;
+    padding-left: 190px;
+   
+}
+
+.par4{
+
+    font-size:xx-small;
+
+
+    padding-left: 150px;
+}
+.par5{
+
+    font-size:xx-small;
+
+    bottom: 20px;
+
+    padding-left: 150px;
+
+}
+
+.hi{
+
+    bottom: 30px;
+}
